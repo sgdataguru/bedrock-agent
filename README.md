@@ -1,6 +1,6 @@
 # Bedrock Agent Tutorial
 
-Refer YouTube Video: https://www.youtube.com/watch?v=6O9DqCrInvw 
+Refer YouTube Video: https://lnkd.in/gnFWuerA
 
 **BytesCommerce/BytesCommerceFunction.py**<br>
 This lambda function is configured in Action Group.
